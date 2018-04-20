@@ -2499,9 +2499,9 @@
     )
   )
 
+  (gr_line (start 16.51 15.24) (end 281.94 15.24) (angle 90) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 16.51 194.31) (end 16.51 15.24) (angle 90) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 281.94 194.31) (end 16.51 194.31) (angle 90) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 281.94 15.24) (end 281.94 194.31) (angle 90) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 13.97 15.24) (end 281.94 15.24) (angle 90) (layer Edge.Cuts) (width 0.15))
 
 )
